@@ -1,5 +1,7 @@
 This creates a collaborative drawing canvas where people can draw together in real-time, each with their own creature identity and color, all synchronized through a decentralized network- NOSTR!
 
+https://cosmicdoodle.surge.sh
+
 ✅ Ephemeral data: Strokes don't need permanent storage
 
 ✅ Real-time: Perfect for WebSocket-based relays
